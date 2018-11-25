@@ -1,1 +1,2 @@
-# macgyverMaze
+# RescueMac
+Python, PyGame, Labyrinth
